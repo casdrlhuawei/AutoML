@@ -26,6 +26,9 @@ Yi Lu, Yaran Chen, Dongbin Zhao, Bao Liu, Zhichao Lai, Jianxin Chen.“CNN-G: co
 Yi Lu, Yaran Chen, Dongbin Zhao, Jianxin Chen, “Graph-FCN for image semantic segmentation,” In: Lu H., Tang H., Wang Z. (eds) Advances in Neural Networks – ISNN 2019. ISNN 2019, vol 11554, pp. 97-105, Springer. 
 [paper](https://arxiv.org/abs/2001.00335)
 
+Junwen Chen, Yi Lu, Yaran Chen, Dongbin Zhao, Zhonghua Pang. ContourRend: A Segmentation Method for Improving Contours by Rendering. 2020, arxiv:2007.07437.
+[paper]( arXiv:2007.07437).[code](https://github.com/CUQS/ContourRend)
+
 ## 检测
 
 Yaran Chen, Dongbin Zhao, “**Deep Kalman filter with optical flow for multiple object tracking**,” IEEE International Conference on Systems, Man and Cybernetics, Bari, Italy, Oct. 6-9, 2019.  
@@ -35,10 +38,16 @@ Hao Su, Yaran Chen, Shiwen Tong and Dongbin Zhao, “**Real-time multiple object
 Yi Lu, Yaran Chen, Dongbin Zhao, “Hybrid deep learning based moving object detection via motion prediction,” Chinese Automation Congress (CAC 2018), Xi’an, China, Nov. 30-Dec.2, 2018, pp. 1862-1867.
 [paper](https://www.researchgate.net/publication/331418573_Hybrid_Deep_Learning_Based_Moving_Object_Detection_via_Motion_prediction)
 
-Yi Lu, Yaran Chen, Dongbin Zhao, “Hybrid deep learning based moving object detection via motion prediction,” Chinese Automation Congress (CAC 2018), Xi’an, China, Nov. 30-Dec.2, 2018, pp. 1862-1867. 
 
 Yaran Chen, Dongbin Zhao, Haoran Li, Dong Li and Ping Guo, “A temporal-based deep learning method for multiple objects detection in autonomous driving,” The International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, Brazil, July 8 – 13, 2018. 
 
 Dong Li, Dongbin Zhao, Yaran Chen and Qichao Zhang, “DeepSign: deep learning based rraffic sign recognition,” The International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, Brazil, July 8 – 13, 2018. (Best Paper Award Final List).
 
 Yaran Chen, Dongbin Zhao*, Le Lv, Qichao Zhang, “**Multi-task learning for dangerous object detection in autonomous driving**”, Information Sciences, vol. 432, pp. 559-571, 2018. 
+
+## 中医诊断
+XuWang, Jingwei Liu, Chaoyong Wua, Junhong Liu, Qianqian Li, Yufeng Chen, Xinrong Wang, Xinli Chen, Xiaohan Pang, Binglong Chang, Jiaying Lin, Shifeng Zhao, Zhihong Li, Qingqiong Deng, Yi Lu, Dongbin Zhao, Jianxin Chen. Artificial intelligence in tongue diagnosis: Using deep convolutional neural network for recognizing unhealthy tongue with tooth-mark[J]. Computational and Structural Biotechnology Journal, 2020, 18.
+[paper](https://www.sciencedirect.com/science/article/pii/S2001037020300325)
+
+曹云，卢毅，陈建新，李志红等.基于机器学习的胃食管反流病中医智能辨证模型的应用,《北京中医药大学学报》.2019年42卷10期，869-874.
+[paper](http://www.cnki.com.cn/Article/CJFDTotal-JZYB201910014.htm)
