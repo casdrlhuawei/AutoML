@@ -27,7 +27,7 @@ Yi Lu, Yaran Chen, Dongbin Zhao, Jianxin Chen, “Graph-FCN for image semantic s
 [paper](https://arxiv.org/abs/2001.00335)
 
 Junwen Chen, Yi Lu, Yaran Chen, Dongbin Zhao, Zhonghua Pang. ContourRend: A Segmentation Method for Improving Contours by Rendering. 2020, arxiv:2007.07437.
-[paper]( arXiv:2007.07437).[code](https://github.com/CUQS/ContourRend)
+[paper](https://arxiv.org/abs/2007.07437).[code](https://github.com/CUQS/ContourRend)
 
 ## 检测
 
