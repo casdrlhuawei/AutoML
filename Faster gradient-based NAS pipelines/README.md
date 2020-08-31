@@ -1,6 +1,6 @@
 # Faster Gradient-based NAS Pipelines Using Broad Scalable Architecture
 
-<img src="images/bcnn.png" alt="BCNN" width="70%">
+<img src="images/bcnn.png" alt="BCNN" width="90%">
 
 
 Experimental results on CIFAR-10 and ImageNet show that 1) B-DARTS delivers 5x (0.09 GPU day) and 7.9x (0.19 GPU day) faster search speed than vanilla DARTS using first and second order approximations, respectively; 2) B-PC-DARTS delivers state-of-the-art efficiency of 0.05 GPU day on CIFAR-10 and 0.19 GPU day on ImageNet; 3) The proposed CLR is effective for performance collapse issue alleviation of both B-DARTS and DARTS.
